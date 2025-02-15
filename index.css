@@ -1,0 +1,26 @@
+/* GroupMembers.css */
+.group-container {
+  padding: 16px;
+  max-width: 300px;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.group-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #4a5568;
+}
+
+.group-list {
+  list-style-type: disc;
+  padding-left: 20px;
+  color: #4a5568;
+}
+
+.group-list li {
+  margin: 5px 0;
+}
