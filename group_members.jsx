@@ -1,6 +1,6 @@
 import React from 'react';
 const GroupMembers = () => {
-  const members = ["Ahmed", "Yassin", "Fatima", "Hassan", "Aisha"];
+  const members = ["Ahmed"];
 
   return (
     <div className="p-4 max-w-sm mx-auto bg-white rounded-xl shadow-md space-y-2">
